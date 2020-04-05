@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/makecover/static/css/main.42a33769.chunk.css",
+    "main.css": "/makecover/static/css/main.9f60fe3c.chunk.css",
     "main.js": "/makecover/static/js/main.2d7d5958.chunk.js",
     "main.js.map": "/makecover/static/js/main.2d7d5958.chunk.js.map",
     "runtime-main.js": "/makecover/static/js/runtime-main.3e8768e1.js",
@@ -9,10 +9,10 @@
     "static/js/2.dcbad1fb.chunk.js": "/makecover/static/js/2.dcbad1fb.chunk.js",
     "static/js/2.dcbad1fb.chunk.js.map": "/makecover/static/js/2.dcbad1fb.chunk.js.map",
     "index.html": "/makecover/index.html",
-    "precache-manifest.0d9ea5dc521f78a423630a5e83635cc5.js": "/makecover/precache-manifest.0d9ea5dc521f78a423630a5e83635cc5.js",
+    "precache-manifest.90c93f4e19e544a7e1b9c7d36e438e7b.js": "/makecover/precache-manifest.90c93f4e19e544a7e1b9c7d36e438e7b.js",
     "service-worker.js": "/makecover/service-worker.js",
     "static/css/2.ee241de9.chunk.css.map": "/makecover/static/css/2.ee241de9.chunk.css.map",
-    "static/css/main.42a33769.chunk.css.map": "/makecover/static/css/main.42a33769.chunk.css.map",
+    "static/css/main.9f60fe3c.chunk.css.map": "/makecover/static/css/main.9f60fe3c.chunk.css.map",
     "static/js/2.dcbad1fb.chunk.js.LICENSE.txt": "/makecover/static/js/2.dcbad1fb.chunk.js.LICENSE.txt",
     "static/media/App.css": "/makecover/static/media/cover01.24cced32.jpg",
     "static/media/logo.svg": "/makecover/static/media/logo.5d5d9eef.svg",
@@ -22,7 +22,7 @@
     "static/js/runtime-main.3e8768e1.js",
     "static/css/2.ee241de9.chunk.css",
     "static/js/2.dcbad1fb.chunk.js",
-    "static/css/main.42a33769.chunk.css",
+    "static/css/main.9f60fe3c.chunk.css",
     "static/js/main.2d7d5958.chunk.js"
   ]
 }
