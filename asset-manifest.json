@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/makecover/static/css/main.8aa9c657.chunk.css",
-    "main.js": "/makecover/static/js/main.9d65e47f.chunk.js",
-    "main.js.map": "/makecover/static/js/main.9d65e47f.chunk.js.map",
+    "main.js": "/makecover/static/js/main.dc86d183.chunk.js",
+    "main.js.map": "/makecover/static/js/main.dc86d183.chunk.js.map",
     "runtime-main.js": "/makecover/static/js/runtime-main.3e8768e1.js",
     "runtime-main.js.map": "/makecover/static/js/runtime-main.3e8768e1.js.map",
     "static/css/2.ee241de9.chunk.css": "/makecover/static/css/2.ee241de9.chunk.css",
     "static/js/2.1a25c836.chunk.js": "/makecover/static/js/2.1a25c836.chunk.js",
     "static/js/2.1a25c836.chunk.js.map": "/makecover/static/js/2.1a25c836.chunk.js.map",
     "index.html": "/makecover/index.html",
-    "precache-manifest.b52e1319a3be0bf6906df5cfb709f3f6.js": "/makecover/precache-manifest.b52e1319a3be0bf6906df5cfb709f3f6.js",
+    "precache-manifest.d88f89d65c78615bda2636be22249088.js": "/makecover/precache-manifest.d88f89d65c78615bda2636be22249088.js",
     "service-worker.js": "/makecover/service-worker.js",
     "static/css/2.ee241de9.chunk.css.map": "/makecover/static/css/2.ee241de9.chunk.css.map",
     "static/css/main.8aa9c657.chunk.css.map": "/makecover/static/css/main.8aa9c657.chunk.css.map",
@@ -25,6 +25,6 @@
     "static/css/2.ee241de9.chunk.css",
     "static/js/2.1a25c836.chunk.js",
     "static/css/main.8aa9c657.chunk.css",
-    "static/js/main.9d65e47f.chunk.js"
+    "static/js/main.dc86d183.chunk.js"
   ]
 }
