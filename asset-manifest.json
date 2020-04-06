@@ -1,22 +1,23 @@
 {
   "files": {
     "main.css": "/makecover/static/css/main.d3b9e051.chunk.css",
-    "main.js": "/makecover/static/js/main.aeb624cd.chunk.js",
-    "main.js.map": "/makecover/static/js/main.aeb624cd.chunk.js.map",
+    "main.js": "/makecover/static/js/main.c3a3ac3a.chunk.js",
+    "main.js.map": "/makecover/static/js/main.c3a3ac3a.chunk.js.map",
     "runtime-main.js": "/makecover/static/js/runtime-main.3e8768e1.js",
     "runtime-main.js.map": "/makecover/static/js/runtime-main.3e8768e1.js.map",
     "static/css/2.ee241de9.chunk.css": "/makecover/static/css/2.ee241de9.chunk.css",
-    "static/js/2.ba40e8e6.chunk.js": "/makecover/static/js/2.ba40e8e6.chunk.js",
-    "static/js/2.ba40e8e6.chunk.js.map": "/makecover/static/js/2.ba40e8e6.chunk.js.map",
+    "static/js/2.caaffb25.chunk.js": "/makecover/static/js/2.caaffb25.chunk.js",
+    "static/js/2.caaffb25.chunk.js.map": "/makecover/static/js/2.caaffb25.chunk.js.map",
     "index.html": "/makecover/index.html",
-    "precache-manifest.22af7e786cba69a44fb19c8340783363.js": "/makecover/precache-manifest.22af7e786cba69a44fb19c8340783363.js",
+    "precache-manifest.625731667a9a755e5ba552caa8ebefe4.js": "/makecover/precache-manifest.625731667a9a755e5ba552caa8ebefe4.js",
     "service-worker.js": "/makecover/service-worker.js",
     "static/css/2.ee241de9.chunk.css.map": "/makecover/static/css/2.ee241de9.chunk.css.map",
     "static/css/main.d3b9e051.chunk.css.map": "/makecover/static/css/main.d3b9e051.chunk.css.map",
-    "static/js/2.ba40e8e6.chunk.js.LICENSE.txt": "/makecover/static/js/2.ba40e8e6.chunk.js.LICENSE.txt",
+    "static/js/2.caaffb25.chunk.js.LICENSE.txt": "/makecover/static/js/2.caaffb25.chunk.js.LICENSE.txt",
     "static/media/chome_ic.png": "/makecover/static/media/chome_ic.c8039f52.png",
     "static/media/cover01.jpg": "/makecover/static/media/cover01.07c43942.jpg",
     "static/media/cover02.jpg": "/makecover/static/media/cover02.b59c979f.jpg",
+    "static/media/forms.jpg": "/makecover/static/media/forms.5eb9e499.jpg",
     "static/media/logo.svg": "/makecover/static/media/logo.5d5d9eef.svg",
     "static/media/profile2.jpg": "/makecover/static/media/profile2.da4c82e1.jpg",
     "static/media/setup_1.png": "/makecover/static/media/setup_1.162633ee.png"
@@ -24,8 +25,8 @@
   "entrypoints": [
     "static/js/runtime-main.3e8768e1.js",
     "static/css/2.ee241de9.chunk.css",
-    "static/js/2.ba40e8e6.chunk.js",
+    "static/js/2.caaffb25.chunk.js",
     "static/css/main.d3b9e051.chunk.css",
-    "static/js/main.aeb624cd.chunk.js"
+    "static/js/main.c3a3ac3a.chunk.js"
   ]
 }
