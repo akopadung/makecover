@@ -1,21 +1,22 @@
 {
   "files": {
     "main.css": "/makecover/static/css/main.8aa9c657.chunk.css",
-    "main.js": "/makecover/static/js/main.456b6cc9.chunk.js",
-    "main.js.map": "/makecover/static/js/main.456b6cc9.chunk.js.map",
+    "main.js": "/makecover/static/js/main.6ec88647.chunk.js",
+    "main.js.map": "/makecover/static/js/main.6ec88647.chunk.js.map",
     "runtime-main.js": "/makecover/static/js/runtime-main.3e8768e1.js",
     "runtime-main.js.map": "/makecover/static/js/runtime-main.3e8768e1.js.map",
     "static/css/2.ee241de9.chunk.css": "/makecover/static/css/2.ee241de9.chunk.css",
-    "static/js/2.1a25c836.chunk.js": "/makecover/static/js/2.1a25c836.chunk.js",
-    "static/js/2.1a25c836.chunk.js.map": "/makecover/static/js/2.1a25c836.chunk.js.map",
+    "static/js/2.ba40e8e6.chunk.js": "/makecover/static/js/2.ba40e8e6.chunk.js",
+    "static/js/2.ba40e8e6.chunk.js.map": "/makecover/static/js/2.ba40e8e6.chunk.js.map",
     "index.html": "/makecover/index.html",
-    "precache-manifest.62cc1c5218c17941809b050d0e27eb6e.js": "/makecover/precache-manifest.62cc1c5218c17941809b050d0e27eb6e.js",
+    "precache-manifest.6b03635bb51189f42995eea1f1b3583a.js": "/makecover/precache-manifest.6b03635bb51189f42995eea1f1b3583a.js",
     "service-worker.js": "/makecover/service-worker.js",
     "static/css/2.ee241de9.chunk.css.map": "/makecover/static/css/2.ee241de9.chunk.css.map",
     "static/css/main.8aa9c657.chunk.css.map": "/makecover/static/css/main.8aa9c657.chunk.css.map",
-    "static/js/2.1a25c836.chunk.js.LICENSE.txt": "/makecover/static/js/2.1a25c836.chunk.js.LICENSE.txt",
+    "static/js/2.ba40e8e6.chunk.js.LICENSE.txt": "/makecover/static/js/2.ba40e8e6.chunk.js.LICENSE.txt",
     "static/media/chome_ic.png": "/makecover/static/media/chome_ic.c8039f52.png",
     "static/media/cover01.jpg": "/makecover/static/media/cover01.07c43942.jpg",
+    "static/media/cover02.jpg": "/makecover/static/media/cover02.b59c979f.jpg",
     "static/media/logo.svg": "/makecover/static/media/logo.5d5d9eef.svg",
     "static/media/profile2.jpg": "/makecover/static/media/profile2.da4c82e1.jpg",
     "static/media/setting_.png": "/makecover/static/media/setting_.004e76e5.png"
@@ -23,8 +24,8 @@
   "entrypoints": [
     "static/js/runtime-main.3e8768e1.js",
     "static/css/2.ee241de9.chunk.css",
-    "static/js/2.1a25c836.chunk.js",
+    "static/js/2.ba40e8e6.chunk.js",
     "static/css/main.8aa9c657.chunk.css",
-    "static/js/main.456b6cc9.chunk.js"
+    "static/js/main.6ec88647.chunk.js"
   ]
 }

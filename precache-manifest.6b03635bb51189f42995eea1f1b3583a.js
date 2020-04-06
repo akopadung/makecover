@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ea4fceea10d2217fb0caa9ab4f6ef9cc",
+    "revision": "a8bf7a5117e525cbb6d473a23c234823",
     "url": "/makecover/index.html"
   },
   {
-    "revision": "1102358413a512c06ad4",
+    "revision": "a483ce834153f159902d",
     "url": "/makecover/static/css/2.ee241de9.chunk.css"
   },
   {
-    "revision": "285d006be466e0a45c30",
+    "revision": "38c7b51f1124fd863c21",
     "url": "/makecover/static/css/main.8aa9c657.chunk.css"
   },
   {
-    "revision": "1102358413a512c06ad4",
-    "url": "/makecover/static/js/2.1a25c836.chunk.js"
+    "revision": "a483ce834153f159902d",
+    "url": "/makecover/static/js/2.ba40e8e6.chunk.js"
   },
   {
     "revision": "e899412d8dbefb133da0034f43167f5d",
-    "url": "/makecover/static/js/2.1a25c836.chunk.js.LICENSE.txt"
+    "url": "/makecover/static/js/2.ba40e8e6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "285d006be466e0a45c30",
-    "url": "/makecover/static/js/main.456b6cc9.chunk.js"
+    "revision": "38c7b51f1124fd863c21",
+    "url": "/makecover/static/js/main.6ec88647.chunk.js"
   },
   {
     "revision": "5bf1f472de1c580330bd",
@@ -34,6 +34,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "07c43942b1a9179c579e15a1023b3b90",
     "url": "/makecover/static/media/cover01.07c43942.jpg"
+  },
+  {
+    "revision": "b59c979f108229a7f772b3898a790d14",
+    "url": "/makecover/static/media/cover02.b59c979f.jpg"
   },
   {
     "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
