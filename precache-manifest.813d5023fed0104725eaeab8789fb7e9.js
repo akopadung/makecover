@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8a8e070f11b06b8ccc916e702177f125",
+    "revision": "e489a2e7f279c625a7182ddb1bd489dd",
     "url": "/makecover/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/makecover/static/css/2.ee241de9.chunk.css"
   },
   {
-    "revision": "11907c5bd2a1413c7d05",
-    "url": "/makecover/static/css/main.5c4267a0.chunk.css"
+    "revision": "ab8ea6be573875d81392",
+    "url": "/makecover/static/css/main.0fccbd62.chunk.css"
   },
   {
     "revision": "1102358413a512c06ad4",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/makecover/static/js/2.1a25c836.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "11907c5bd2a1413c7d05",
+    "revision": "ab8ea6be573875d81392",
     "url": "/makecover/static/js/main.e8260ac9.chunk.js"
   },
   {
