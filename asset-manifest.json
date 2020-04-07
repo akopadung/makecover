@@ -1,22 +1,25 @@
 {
   "files": {
-    "main.css": "/makecover/static/css/main.a721c194.chunk.css",
-    "main.js": "/makecover/static/js/main.016a1f35.chunk.js",
-    "main.js.map": "/makecover/static/js/main.016a1f35.chunk.js.map",
+    "main.css": "/makecover/static/css/main.70bb05c2.chunk.css",
+    "main.js": "/makecover/static/js/main.710d2771.chunk.js",
+    "main.js.map": "/makecover/static/js/main.710d2771.chunk.js.map",
     "runtime-main.js": "/makecover/static/js/runtime-main.3e8768e1.js",
     "runtime-main.js.map": "/makecover/static/js/runtime-main.3e8768e1.js.map",
     "static/css/2.ee241de9.chunk.css": "/makecover/static/css/2.ee241de9.chunk.css",
-    "static/js/2.e83dd0ba.chunk.js": "/makecover/static/js/2.e83dd0ba.chunk.js",
-    "static/js/2.e83dd0ba.chunk.js.map": "/makecover/static/js/2.e83dd0ba.chunk.js.map",
+    "static/js/2.a2bdf483.chunk.js": "/makecover/static/js/2.a2bdf483.chunk.js",
+    "static/js/2.a2bdf483.chunk.js.map": "/makecover/static/js/2.a2bdf483.chunk.js.map",
     "index.html": "/makecover/index.html",
-    "precache-manifest.4fba9231652b046dc596656a707b7bf2.js": "/makecover/precache-manifest.4fba9231652b046dc596656a707b7bf2.js",
+    "precache-manifest.6377aa20ed1fceddd383953c10425b4d.js": "/makecover/precache-manifest.6377aa20ed1fceddd383953c10425b4d.js",
     "service-worker.js": "/makecover/service-worker.js",
     "static/css/2.ee241de9.chunk.css.map": "/makecover/static/css/2.ee241de9.chunk.css.map",
-    "static/css/main.a721c194.chunk.css.map": "/makecover/static/css/main.a721c194.chunk.css.map",
-    "static/js/2.e83dd0ba.chunk.js.LICENSE.txt": "/makecover/static/js/2.e83dd0ba.chunk.js.LICENSE.txt",
+    "static/css/main.70bb05c2.chunk.css.map": "/makecover/static/css/main.70bb05c2.chunk.css.map",
+    "static/js/2.a2bdf483.chunk.js.LICENSE.txt": "/makecover/static/js/2.a2bdf483.chunk.js.LICENSE.txt",
     "static/media/chome_ic.png": "/makecover/static/media/chome_ic.c8039f52.png",
     "static/media/cover01.jpg": "/makecover/static/media/cover01.07c43942.jpg",
     "static/media/cover02.jpg": "/makecover/static/media/cover02.b59c979f.jpg",
+    "static/media/cover11.jpg": "/makecover/static/media/cover11.4c06e65d.jpg",
+    "static/media/cover11_bottomB.png": "/makecover/static/media/cover11_bottomB.d19263ce.png",
+    "static/media/cover11_middle.png": "/makecover/static/media/cover11_middle.01229ca1.png",
     "static/media/forms.jpg": "/makecover/static/media/forms.5eb9e499.jpg",
     "static/media/logo.svg": "/makecover/static/media/logo.5d5d9eef.svg",
     "static/media/setup_1.png": "/makecover/static/media/setup_1.162633ee.png"
@@ -24,8 +27,8 @@
   "entrypoints": [
     "static/js/runtime-main.3e8768e1.js",
     "static/css/2.ee241de9.chunk.css",
-    "static/js/2.e83dd0ba.chunk.js",
-    "static/css/main.a721c194.chunk.css",
-    "static/js/main.016a1f35.chunk.js"
+    "static/js/2.a2bdf483.chunk.js",
+    "static/css/main.70bb05c2.chunk.css",
+    "static/js/main.710d2771.chunk.js"
   ]
 }
