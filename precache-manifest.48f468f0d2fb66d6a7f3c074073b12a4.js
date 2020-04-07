@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8b5a272dab0222ce9f500b04c891b23f",
+    "revision": "f34aa658144e55a950624ff35626dc62",
     "url": "/makecover/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/makecover/static/css/2.ee241de9.chunk.css"
   },
   {
-    "revision": "69c2cdecda8b418471f8",
+    "revision": "892009df4012e44d72ef",
     "url": "/makecover/static/css/main.70bb05c2.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/makecover/static/js/2.a2bdf483.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "69c2cdecda8b418471f8",
-    "url": "/makecover/static/js/main.710d2771.chunk.js"
+    "revision": "892009df4012e44d72ef",
+    "url": "/makecover/static/js/main.2a0498cd.chunk.js"
   },
   {
     "revision": "5bf1f472de1c580330bd",
@@ -40,8 +40,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/makecover/static/media/cover02.b59c979f.jpg"
   },
   {
-    "revision": "4c06e65da98586f1eda8a72ac708ee2e",
-    "url": "/makecover/static/media/cover11.4c06e65d.jpg"
+    "revision": "850ad3b27d3293e8ae8eb118d3a4199e",
+    "url": "/makecover/static/media/cover11.850ad3b2.jpg"
   },
   {
     "revision": "d19263cedd89557c84aa71a94ab4a9ff",
