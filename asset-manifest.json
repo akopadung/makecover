@@ -1,19 +1,21 @@
 {
   "files": {
-    "main.css": "/makecover/static/css/main.82183ce2.chunk.css",
-    "main.js": "/makecover/static/js/main.2ec47ba5.chunk.js",
-    "main.js.map": "/makecover/static/js/main.2ec47ba5.chunk.js.map",
+    "main.css": "/makecover/static/css/main.6a84c866.chunk.css",
+    "main.js": "/makecover/static/js/main.0020afe2.chunk.js",
+    "main.js.map": "/makecover/static/js/main.0020afe2.chunk.js.map",
     "runtime-main.js": "/makecover/static/js/runtime-main.3e8768e1.js",
     "runtime-main.js.map": "/makecover/static/js/runtime-main.3e8768e1.js.map",
-    "static/css/2.ee241de9.chunk.css": "/makecover/static/css/2.ee241de9.chunk.css",
-    "static/js/2.348aa862.chunk.js": "/makecover/static/js/2.348aa862.chunk.js",
-    "static/js/2.348aa862.chunk.js.map": "/makecover/static/js/2.348aa862.chunk.js.map",
+    "static/css/2.507fefa1.chunk.css": "/makecover/static/css/2.507fefa1.chunk.css",
+    "static/js/2.271a1b9e.chunk.js": "/makecover/static/js/2.271a1b9e.chunk.js",
+    "static/js/2.271a1b9e.chunk.js.map": "/makecover/static/js/2.271a1b9e.chunk.js.map",
     "index.html": "/makecover/index.html",
-    "precache-manifest.c52cee8c161470a6634eeadb030cf2f3.js": "/makecover/precache-manifest.c52cee8c161470a6634eeadb030cf2f3.js",
+    "precache-manifest.7e412f136ca05088777287c8517387ba.js": "/makecover/precache-manifest.7e412f136ca05088777287c8517387ba.js",
     "service-worker.js": "/makecover/service-worker.js",
-    "static/css/2.ee241de9.chunk.css.map": "/makecover/static/css/2.ee241de9.chunk.css.map",
-    "static/css/main.82183ce2.chunk.css.map": "/makecover/static/css/main.82183ce2.chunk.css.map",
-    "static/js/2.348aa862.chunk.js.LICENSE.txt": "/makecover/static/js/2.348aa862.chunk.js.LICENSE.txt",
+    "static/css/2.507fefa1.chunk.css.map": "/makecover/static/css/2.507fefa1.chunk.css.map",
+    "static/css/main.6a84c866.chunk.css.map": "/makecover/static/css/main.6a84c866.chunk.css.map",
+    "static/js/2.271a1b9e.chunk.js.LICENSE.txt": "/makecover/static/js/2.271a1b9e.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/makecover/static/media/Lato-Regular.2d36b1a9.ttf",
+    "static/media/global.css": "/makecover/static/media/nucleo.5987dd12.woff2",
     "static/media/chome_ic.png": "/makecover/static/media/chome_ic.c8039f52.png",
     "static/media/cover01.jpg": "/makecover/static/media/cover01.07c43942.jpg",
     "static/media/cover02.jpg": "/makecover/static/media/cover02.b59c979f.jpg",
@@ -24,14 +26,15 @@
     "static/media/cover21_middle.png": "/makecover/static/media/cover21_middle.c07ed96c.png",
     "static/media/cover21_top.png": "/makecover/static/media/cover21_top.42d38943.png",
     "static/media/forms.jpg": "/makecover/static/media/forms.5eb9e499.jpg",
+    "static/media/index.css": "/makecover/static/media/lato-latin-900italic.bd86aaa7.woff2",
     "static/media/logo.svg": "/makecover/static/media/logo.5d5d9eef.svg",
     "static/media/setup_1.png": "/makecover/static/media/setup_1.162633ee.png"
   },
   "entrypoints": [
     "static/js/runtime-main.3e8768e1.js",
-    "static/css/2.ee241de9.chunk.css",
-    "static/js/2.348aa862.chunk.js",
-    "static/css/main.82183ce2.chunk.css",
-    "static/js/main.2ec47ba5.chunk.js"
+    "static/css/2.507fefa1.chunk.css",
+    "static/js/2.271a1b9e.chunk.js",
+    "static/css/main.6a84c866.chunk.css",
+    "static/js/main.0020afe2.chunk.js"
   ]
 }
