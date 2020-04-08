@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/makecover/static/css/main.6c163cc5.chunk.css",
-    "main.js": "/makecover/static/js/main.854e7286.chunk.js",
-    "main.js.map": "/makecover/static/js/main.854e7286.chunk.js.map",
+    "main.js": "/makecover/static/js/main.8ea1412d.chunk.js",
+    "main.js.map": "/makecover/static/js/main.8ea1412d.chunk.js.map",
     "runtime-main.js": "/makecover/static/js/runtime-main.3e8768e1.js",
     "runtime-main.js.map": "/makecover/static/js/runtime-main.3e8768e1.js.map",
     "static/css/2.507fefa1.chunk.css": "/makecover/static/css/2.507fefa1.chunk.css",
-    "static/js/2.33ce2512.chunk.js": "/makecover/static/js/2.33ce2512.chunk.js",
-    "static/js/2.33ce2512.chunk.js.map": "/makecover/static/js/2.33ce2512.chunk.js.map",
+    "static/js/2.c41a8bcc.chunk.js": "/makecover/static/js/2.c41a8bcc.chunk.js",
+    "static/js/2.c41a8bcc.chunk.js.map": "/makecover/static/js/2.c41a8bcc.chunk.js.map",
     "index.html": "/makecover/index.html",
-    "precache-manifest.814634b72c00a3931fbbc5496025f8e1.js": "/makecover/precache-manifest.814634b72c00a3931fbbc5496025f8e1.js",
+    "precache-manifest.1fdf2ee626084c688f7d7fe912da923e.js": "/makecover/precache-manifest.1fdf2ee626084c688f7d7fe912da923e.js",
     "service-worker.js": "/makecover/service-worker.js",
     "static/css/2.507fefa1.chunk.css.map": "/makecover/static/css/2.507fefa1.chunk.css.map",
     "static/css/main.6c163cc5.chunk.css.map": "/makecover/static/css/main.6c163cc5.chunk.css.map",
-    "static/js/2.33ce2512.chunk.js.LICENSE.txt": "/makecover/static/js/2.33ce2512.chunk.js.LICENSE.txt",
+    "static/js/2.c41a8bcc.chunk.js.LICENSE.txt": "/makecover/static/js/2.c41a8bcc.chunk.js.LICENSE.txt",
     "static/media/ChakraPetch-Regular.ttf": "/makecover/static/media/ChakraPetch-Regular.f69fdd68.ttf",
     "static/media/K2D-Regular.ttf": "/makecover/static/media/K2D-Regular.9bec958d.ttf",
     "static/media/Kanit-Regular.ttf": "/makecover/static/media/Kanit-Regular.a82c4c3b.ttf",
@@ -29,6 +29,9 @@
     "static/media/cover21.png": "/makecover/static/media/cover21.074630b9.png",
     "static/media/cover21_middle.png": "/makecover/static/media/cover21_middle.c07ed96c.png",
     "static/media/cover21_top.png": "/makecover/static/media/cover21_top.42d38943.png",
+    "static/media/cover22.png": "/makecover/static/media/cover22.e6e5c573.png",
+    "static/media/cover22_middle.png": "/makecover/static/media/cover22_middle.ef98a23f.png",
+    "static/media/cover22_top.png": "/makecover/static/media/cover22_top.e4deb55c.png",
     "static/media/forms.jpg": "/makecover/static/media/forms.5eb9e499.jpg",
     "static/media/index.css": "/makecover/static/media/lato-latin-900italic.bd86aaa7.woff2",
     "static/media/logo.svg": "/makecover/static/media/logo.5d5d9eef.svg",
@@ -39,8 +42,8 @@
   "entrypoints": [
     "static/js/runtime-main.3e8768e1.js",
     "static/css/2.507fefa1.chunk.css",
-    "static/js/2.33ce2512.chunk.js",
+    "static/js/2.c41a8bcc.chunk.js",
     "static/css/main.6c163cc5.chunk.css",
-    "static/js/main.854e7286.chunk.js"
+    "static/js/main.8ea1412d.chunk.js"
   ]
 }
