@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "867994f30527b0f9edd9dc1293cf68f9",
+    "revision": "a3707e0363c74be4d28609d225704d14",
     "url": "/makecover/index.html"
   },
   {
