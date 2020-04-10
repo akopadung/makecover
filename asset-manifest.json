@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/makecover/static/css/main.db9df420.chunk.css",
-    "main.js": "/makecover/static/js/main.737f4964.chunk.js",
-    "main.js.map": "/makecover/static/js/main.737f4964.chunk.js.map",
-    "runtime-main.js": "/makecover/static/js/runtime-main.3e8768e1.js",
-    "runtime-main.js.map": "/makecover/static/js/runtime-main.3e8768e1.js.map",
-    "static/css/2.a236edfa.chunk.css": "/makecover/static/css/2.a236edfa.chunk.css",
-    "static/js/2.0ba0e1c7.chunk.js": "/makecover/static/js/2.0ba0e1c7.chunk.js",
-    "static/js/2.0ba0e1c7.chunk.js.map": "/makecover/static/js/2.0ba0e1c7.chunk.js.map",
+    "main.css": "/makecover/static/css/main.657fbdb9.chunk.css",
+    "main.js": "/makecover/static/js/main.1ac0b3e4.chunk.js",
+    "main.js.map": "/makecover/static/js/main.1ac0b3e4.chunk.js.map",
+    "runtime-main.js": "/makecover/static/js/runtime-main.91878a2b.js",
+    "runtime-main.js.map": "/makecover/static/js/runtime-main.91878a2b.js.map",
+    "static/css/2.ee241de9.chunk.css": "/makecover/static/css/2.ee241de9.chunk.css",
+    "static/js/2.b9d60402.chunk.js": "/makecover/static/js/2.b9d60402.chunk.js",
+    "static/js/2.b9d60402.chunk.js.map": "/makecover/static/js/2.b9d60402.chunk.js.map",
     "index.html": "/makecover/index.html",
-    "precache-manifest.5a813bd7843da291f39c036dfe3bb023.js": "/makecover/precache-manifest.5a813bd7843da291f39c036dfe3bb023.js",
+    "precache-manifest.3af4dfadda8059e5d91d95a31a6f7eb3.js": "/makecover/precache-manifest.3af4dfadda8059e5d91d95a31a6f7eb3.js",
     "service-worker.js": "/makecover/service-worker.js",
-    "static/css/2.a236edfa.chunk.css.map": "/makecover/static/css/2.a236edfa.chunk.css.map",
-    "static/css/main.db9df420.chunk.css.map": "/makecover/static/css/main.db9df420.chunk.css.map",
-    "static/js/2.0ba0e1c7.chunk.js.LICENSE.txt": "/makecover/static/js/2.0ba0e1c7.chunk.js.LICENSE.txt",
+    "static/css/2.ee241de9.chunk.css.map": "/makecover/static/css/2.ee241de9.chunk.css.map",
+    "static/css/main.657fbdb9.chunk.css.map": "/makecover/static/css/main.657fbdb9.chunk.css.map",
+    "static/js/2.b9d60402.chunk.js.LICENSE.txt": "/makecover/static/js/2.b9d60402.chunk.js.LICENSE.txt",
     "static/media/ChakraPetch-Regular.ttf": "/makecover/static/media/ChakraPetch-Regular.f69fdd68.ttf",
     "static/media/K2D-Regular.ttf": "/makecover/static/media/K2D-Regular.9bec958d.ttf",
     "static/media/Kanit-Regular.ttf": "/makecover/static/media/Kanit-Regular.a82c4c3b.ttf",
@@ -54,16 +54,15 @@
     "static/media/cover26_middle.png": "/makecover/static/media/cover26_middle.d7fda865.png",
     "static/media/cover26_top.png": "/makecover/static/media/cover26_top.882e8d8f.png",
     "static/media/forms.jpg": "/makecover/static/media/forms.5eb9e499.jpg",
-    "static/media/index.css": "/makecover/static/media/lato-latin-900italic.bd86aaa7.woff2",
-    "static/media/logo.svg": "/makecover/static/media/logo.5d5d9eef.svg",
     "static/media/setup_1.png": "/makecover/static/media/setup_1.162633ee.png",
-    "static/media/sso_logo.png": "/makecover/static/media/sso_logo.453e2eb9.png"
+    "static/media/sso_logo.png": "/makecover/static/media/sso_logo.453e2eb9.png",
+    "static/media/tick.png": "/makecover/static/media/tick.8b479d74.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.3e8768e1.js",
-    "static/css/2.a236edfa.chunk.css",
-    "static/js/2.0ba0e1c7.chunk.js",
-    "static/css/main.db9df420.chunk.css",
-    "static/js/main.737f4964.chunk.js"
+    "static/js/runtime-main.91878a2b.js",
+    "static/css/2.ee241de9.chunk.css",
+    "static/js/2.b9d60402.chunk.js",
+    "static/css/main.657fbdb9.chunk.css",
+    "static/js/main.1ac0b3e4.chunk.js"
   ]
 }
